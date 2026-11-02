@@ -1,0 +1,5 @@
+1 init S
+2 systemd T
+3 sshd S
+4 cron S
+5 asd S
